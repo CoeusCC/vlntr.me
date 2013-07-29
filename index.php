@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
     <link href='style/main.css' rel='stylesheet' type='text/css'>
     <link href='style/font-awesome.css' rel='stylesheet' type='text/css'>
-    <meta property="og:image" content="img/logo.jpg"/>
+    <meta property="og:image" content="img/logo-volunteer-needed.jpg"/>
 </head>
 <body>
 <div class="center">
