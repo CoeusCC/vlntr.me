@@ -7,7 +7,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
     <link href='style/main.css' rel='stylesheet' type='text/css'>
     <link href='style/font-awesome.css' rel='stylesheet' type='text/css'>
-    <meta property="og:image" content="img/logo-volunteer-needed.jpg"/>
+    <meta property="og:title" content="Vlntr.Me" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://vlntr.me/" />
+    <meta property="og:image" content="http://vlntr.me/img/logo-volunteer-needed.jpg"/>
+    <meta property="og:description" content="Volunteerism is one of the best things we have going for us. The desire to serve is rooted in our psyche, but can be overwhelmed by other commitments and temptations. Vlntr.Me seeks to facilitate the discovery of volunteer opportunities for individuals and groups in their respective communities."/>
 </head>
 <body>
 <div class="center">
@@ -18,7 +22,7 @@
         </header>
         <div class="content">
         	<h1>Day 1 (July 29, 2013)</h1>
-            <p><span class="firstcharacter">V</span>olunteerism is one of the best things we have going for us. The desire to serve is rooted in our psyche, but can be overwhelmed by other commitments and temptations. What Vlntr.Me seeks to do is <strong>facilitate the discovery of volunteer opportunities for individuals and groups in their respective communities</strong>.</p>
+            <p><span class="firstcharacter">V</span>olunteerism is one of the best things we have going for us. The desire to serve is rooted in our psyche, but can be overwhelmed by other commitments and temptations. Vlntr.Me seeks to <strong>facilitate the discovery of volunteer opportunities for individuals and groups in their respective communities</strong>.</p>
 
             <p>There is already one <a href="http://volunteermatch.org" target="_blank" alt="Volunteer Match">website that does this well</a>, but we feel that it is targeted towards the organizations and not individuals. We aren’t seeking to compete with that model because we believe Vlntr.Me will help serve in a slightly different way; namely by focusing on the <em>communities</em> that the organizations reside in and not the organization itself.</p>
 
